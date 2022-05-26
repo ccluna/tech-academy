@@ -1,5 +1,4 @@
-# README
-<tech/academy>
+# <tech/academy>
 
 Estudos do curso Tech Academy, da Start.se.
 
