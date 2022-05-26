@@ -3,10 +3,10 @@ Estudos do curso Tech Academy, da Start.se.
 
 - [x] HTNL
 - [X] CSS
-- [] Elementos de página
-- [] Elementos de página e ~~git~~
-- [] JavaScript
-- [] HTML Semântico e FlexBox
-- [] Programação Orientada a Objetos
-- [] NodeJS
-- [] SQL
+- [ ] Elementos de página
+- [ ] Elementos de página e ~~git~~
+- [ ] JavaScript
+- [ ] HTML Semântico e FlexBox
+- [ ] Programação Orientada a Objetos
+- [ ] NodeJS
+- [ ] SQL
