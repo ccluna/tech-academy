@@ -1,7 +1,7 @@
 # tech-academy
 Estudos do curso Tech Academy, da Start.se.
 
-- [x] HTNL
+- [x] HTML
 - [X] CSS
 - [ ] Elementos de página
 - [ ] Elementos de página e ~~git~~
