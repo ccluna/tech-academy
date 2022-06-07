@@ -4,7 +4,7 @@ Estudos do curso Tech Academy, da Start.se.
 
 - [x] HTML
 - [X] CSS
-- [ ] Elementos de página
+- [x] Elementos de página
 - [ ] Elementos de página e ~git~
 - [ ] JavaScript
 - [ ] HTML Semântico e FlexBox
